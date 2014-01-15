@@ -1,10 +1,11 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package serie2;
 
 /**
+ * 
+ * 
+ * 
+ * 
  *
  * @author p1210292
  */
